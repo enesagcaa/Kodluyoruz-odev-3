@@ -1,0 +1,38 @@
+body{
+    background: #fffdd0;
+}
+
+.tarif-isim{
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+    }
+
+h4{
+font-weight: bold;
+color: red;
+}
+
+span{
+    color: red;
+}
+
+div{
+    margin-left: 200px;
+ 
+}
+
+ul{
+ list-style: none;
+}
+
+.bilgi{
+    text-decoration: underline;
+}
+
+    
+.tarif{
+    background-color: rgb(243, 223, 111);
+    border-radius: 25px;
+    text-align: center;
+}
